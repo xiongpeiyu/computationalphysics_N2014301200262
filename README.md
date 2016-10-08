@@ -5,7 +5,7 @@
   
 - [x] [Exercise_03:](https://www.zybuluo.com/peiyu/note/512685)
   
-- [ ] [Exercise_04:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
+- [x] [Exercise_04:](https://www.zybuluo.com/peiyu/note/524578)
   
 - [ ] [Exercise_05:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
   
