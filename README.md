@@ -9,7 +9,7 @@
   
 - [x] [Exercise_05:](https://www.zybuluo.com/peiyu/note/533883)Problem 2.6
   
-- [ ] [Exercise_06:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
+- [x] [Exercise_06:](https://www.zybuluo.com/peiyu/note/541764)Chapter 2:Realistic Projectile Motion
   
 - [ ] [Exercise_07:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
   
