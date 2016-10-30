@@ -11,6 +11,6 @@
   
 - [x] [Exercise_06:](https://www.zybuluo.com/peiyu/note/541764)Chapter 2:Realistic Projectile Motion
   
-- [ ] [Exercise_07:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
+- [ ] [Exercise_07:](https://www.zybuluo.com/peiyu/note/550179)Oscillatory and Motion and Chaos:Problem 3.13
   
 - [ ] [Exercise_08:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
