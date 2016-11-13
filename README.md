@@ -13,4 +13,4 @@
   
 - [x] [Exercise_07:](https://www.zybuluo.com/peiyu/note/550179)Oscillatory and Motion and Chaos:Problem 3.13 &3.14
   
-- [ ] [Exercise_08:](https://github.com/xiongpeiyu/computationalphysics_N2014301200262/edit/master/README.md)
+- [x] [Exercise_08:](https://www.zybuluo.com/peiyu/note/565544)Problem 3.18
