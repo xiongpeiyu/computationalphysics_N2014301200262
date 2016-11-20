@@ -14,3 +14,5 @@
 - [x] [Exercise_07:](https://www.zybuluo.com/peiyu/note/550179)Oscillatory and Motion and Chaos:Problem 3.13 &3.14
   
 - [x] [Exercise_08:](https://www.zybuluo.com/peiyu/note/565544)Problem 3.18
+
+- [x] [Exercise_09:](https://www.zybuluo.com/peiyu/note/573550)Problem 3.31
