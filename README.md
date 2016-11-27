@@ -16,3 +16,5 @@
 - [x] [Exercise_08:](https://www.zybuluo.com/peiyu/note/565544)Problem 3.18
 
 - [x] [Exercise_09:](https://www.zybuluo.com/peiyu/note/573550)Problem 3.31
+
+- [x] [Exercise_10:](https://www.zybuluo.com/peiyu/note/581496)Problem 4.10 & 4.11
