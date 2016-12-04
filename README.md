@@ -18,3 +18,5 @@
 - [x] [Exercise_09:](https://www.zybuluo.com/peiyu/note/573550)Problem 3.31
 
 - [x] [Exercise_10:](https://www.zybuluo.com/peiyu/note/581496)Problem 4.10 & 4.11
+
+- [x] [Exercise_10:](https://www.zybuluo.com/peiyu/note/589738)Problem 4.19 & 4.20
