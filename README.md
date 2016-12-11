@@ -21,4 +21,4 @@
 
 - [x] [Exercise_11:](https://www.zybuluo.com/peiyu/note/589738)Problem 4.19 & 4.20
 
-- [x] [Exercise_12:](https://www.zybuluo.com/peiyu/note/597556）Problem 5.7
+- [x] [Exercise_12:](https://www.zybuluo.com/peiyu/note/597556)Problem 5.7
